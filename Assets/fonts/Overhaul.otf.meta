@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: be9c5b6bea1c740459e9cff1eb8040c6
+timeCreated: 1491143584
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Overhaul
+  fontNames:
+  - Overhaul
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 57653d164f329ea44b383944e3b0acde, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

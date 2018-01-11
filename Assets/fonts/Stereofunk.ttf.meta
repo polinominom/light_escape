@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ed4d461c9ccca2640a92c823b2add369
+timeCreated: 1491305230
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stereofunk
+  fontNames:
+  - Stereofunk
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

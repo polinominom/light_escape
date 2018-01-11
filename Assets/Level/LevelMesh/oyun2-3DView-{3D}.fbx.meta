@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: dce61dc5d261ca347a029506eda96848
+timeCreated: 1490803941
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '3D View: {3D}'
+    100002: Basic Roof Wood Rafter 184mm - Asphalt Shingles [199300]
+    100004: Basic Wall brickbyme [199280]
+    100006: Basic Wall brickbyme [199281]
+    100008: Basic Wall brickbyme [199282]
+    100010: Basic Wall brickbyme [199283]
+    100012: Basic Wall brickbyme [199285]
+    100014: Basic Wall brickbyme [199287]
+    100016: Basic Wall Exterior - Brick on CMU [199284]
+    100018: Floor Generic Floor - 400mm [199290]
+    100020: M_Single-Flush 0915 x 2134mm [199454]
+    100022: M_Single-Flush 0915 x 2134mm [199455]
+    100024: M_Single-Flush 0915 x 2134mm [199456]
+    100026: M_W Shapes-Column W250X73 [199457]
+    100028: M_W Shapes-Column W250X73 [199459]
+    100030: M_W Shapes-Column W250X73 [199461]
+    100032: M_W Shapes-Column W250X73 [199463]
+    100034: M_W Shapes-Column W250X73 [199465]
+    100036: //RootNode
+    100038: Railing 900mm Pipe [199310]
+    100040: Railing 900mm Pipe [199310]_[199476]
+    100042: Railing 900mm Pipe [199310]_[199476] 1
+    100044: Railing 900mm Pipe [199310]_[199476] 10
+    100046: Railing 900mm Pipe [199310]_[199476] 11
+    100048: Railing 900mm Pipe [199310]_[199476] 12
+    100050: Railing 900mm Pipe [199310]_[199476] 13
+    100052: Railing 900mm Pipe [199310]_[199476] 14
+    100054: Railing 900mm Pipe [199310]_[199476] 15
+    100056: Railing 900mm Pipe [199310]_[199476] 16
+    100058: Railing 900mm Pipe [199310]_[199476] 17
+    100060: Railing 900mm Pipe [199310]_[199476] 18
+    100062: Railing 900mm Pipe [199310]_[199476] 19
+    100064: Railing 900mm Pipe [199310]_[199476] 2
+    100066: Railing 900mm Pipe [199310]_[199476] 20
+    100068: Railing 900mm Pipe [199310]_[199476] 21
+    100070: Railing 900mm Pipe [199310]_[199476] 22
+    100072: Railing 900mm Pipe [199310]_[199476] 23
+    100074: Railing 900mm Pipe [199310]_[199476] 24
+    100076: Railing 900mm Pipe [199310]_[199476] 25
+    100078: Railing 900mm Pipe [199310]_[199476] 26
+    100080: Railing 900mm Pipe [199310]_[199476] 27
+    100082: Railing 900mm Pipe [199310]_[199476] 28
+    100084: Railing 900mm Pipe [199310]_[199476] 29
+    100086: Railing 900mm Pipe [199310]_[199476] 3
+    100088: Railing 900mm Pipe [199310]_[199476] 30
+    100090: Railing 900mm Pipe [199310]_[199476] 31
+    100092: Railing 900mm Pipe [199310]_[199476] 32
+    100094: Railing 900mm Pipe [199310]_[199476] 33
+    100096: Railing 900mm Pipe [199310]_[199476] 4
+    100098: Railing 900mm Pipe [199310]_[199476] 5
+    100100: Railing 900mm Pipe [199310]_[199476] 6
+    100102: Railing 900mm Pipe [199310]_[199476] 7
+    100104: Railing 900mm Pipe [199310]_[199476] 8
+    100106: Railing 900mm Pipe [199310]_[199476] 9
+    100108: Railing 900mm Pipe [199310]_MeshPart0
+    100110: Railing 900mm Pipe [199310]_MeshPart1
+    100112: Rectangular Mullion 50mm x 150mm [199333]
+    100114: Rectangular Mullion 50mm x 150mm [199334]
+    100116: Rectangular Mullion 50mm x 150mm [199335]
+    100118: Rectangular Mullion 50mm x 150mm [199336]
+    100120: Rectangular Mullion 50mm x 150mm [199381]
+    100122: Rectangular Mullion 50mm x 150mm [199382]
+    100124: Rectangular Mullion 50mm x 150mm [199383]
+    100126: Rectangular Mullion 50mm x 150mm [199384]
+    100128: Rectangular Mullion 50mm x 150mm [199385]
+    100130: Rectangular Mullion 50mm x 150mm [199386]
+    100132: Rectangular Mullion 50mm x 150mm [199387]
+    100134: Rectangular Mullion 50mm x 150mm [199388]
+    100136: Rectangular Mullion 50mm x 150mm [199389]
+    100138: Rectangular Mullion 50mm x 150mm [199390]
+    100140: Rectangular Mullion 50mm x 150mm [199391]
+    100142: Rectangular Mullion 50mm x 150mm [199392]
+    100144: Rectangular Mullion 50mm x 150mm [199393]
+    100146: Rectangular Mullion 50mm x 150mm [199394]
+    100148: Rectangular Mullion 50mm x 150mm [199395]
+    100150: Rectangular Mullion 50mm x 150mm [199396]
+    100152: Rectangular Mullion 50mm x 150mm [199397]
+    100154: Rectangular Mullion 50mm x 150mm [199398]
+    100156: Rectangular Mullion 50mm x 150mm [199399]
+    100158: Rectangular Mullion 50mm x 150mm [199400]
+    100160: Rectangular Mullion 50mm x 150mm [199401]
+    100162: Rectangular Mullion 50mm x 150mm [199402]
+    100164: Rectangular Mullion 50mm x 150mm [199403]
+    100166: Rectangular Mullion 50mm x 150mm [199404]
+    100168: Rectangular Mullion 50mm x 150mm [199405]
+    100170: Rectangular Mullion 50mm x 150mm [199406]
+    100172: Rectangular Mullion 50mm x 150mm [199407]
+    100174: Rectangular Mullion 50mm x 150mm [199408]
+    100176: Rectangular Mullion 50mm x 150mm [199409]
+    100178: Rectangular Mullion 50mm x 150mm [199410]
+    100180: Rectangular Mullion 50mm x 150mm [199411]
+    100182: Rectangular Mullion 50mm x 150mm [199412]
+    100184: Rectangular Mullion 50mm x 150mm [199413]
+    100186: Rectangular Mullion 50mm x 150mm [199414]
+    100188: Rectangular Mullion 50mm x 150mm [199415]
+    100190: Rectangular Mullion 50mm x 150mm [199416]
+    100192: Rectangular Mullion 50mm x 150mm [199417]
+    100194: Rectangular Mullion 50mm x 150mm [199418]
+    100196: Rectangular Mullion 50mm x 150mm [199419]
+    100198: Rectangular Mullion 50mm x 150mm [199420]
+    100200: Rectangular Mullion 50mm x 150mm [199421]
+    100202: Rectangular Mullion 50mm x 150mm [199422]
+    100204: Rectangular Mullion 50mm x 150mm [199423]
+    100206: Rectangular Mullion 50mm x 150mm [199424]
+    100208: Rectangular Mullion 50mm x 150mm [199425]
+    100210: Rectangular Mullion 50mm x 150mm [199426]
+    100212: Rectangular Mullion 50mm x 150mm [199427]
+    100214: Rectangular Mullion 50mm x 150mm [199428]
+    100216: Rectangular Mullion 50mm x 150mm [199429]
+    100218: Rectangular Mullion 50mm x 150mm [199430]
+    100220: Rectangular Mullion 50mm x 150mm [199431]
+    100222: Rectangular Mullion 50mm x 150mm [199432]
+    100224: Rectangular Mullion 50mm x 150mm [199433]
+    100226: Rectangular Mullion 50mm x 150mm [199434]
+    100228: Rectangular Mullion 50mm x 150mm [199435]
+    100230: Rectangular Mullion 50mm x 150mm [199436]
+    100232: Rectangular Mullion 50mm x 150mm [199437]
+    100234: Rectangular Mullion 50mm x 150mm [199438]
+    100236: Rectangular Mullion 50mm x 150mm [199439]
+    100238: Rectangular Mullion 50mm x 150mm [199440]
+    100240: Rectangular Mullion 50mm x 150mm [199441]
+    100242: Rectangular Mullion 50mm x 150mm [199442]
+    100244: Rectangular Mullion 50mm x 150mm [199443]
+    100246: Rectangular Mullion 50mm x 150mm [199444]
+    100248: Rectangular Mullion 50mm x 150mm [199445]
+    100250: Rectangular Mullion 50mm x 150mm [199446]
+    100252: Rectangular Mullion 50mm x 150mm [199447]
+    100254: Rectangular Mullion 50mm x 150mm [199448]
+    100256: Rectangular Mullion 50mm x 150mm [199449]
+    100258: Rectangular Mullion 50mm x 150mm [199450]
+    100260: Rectangular Mullion 50mm x 150mm [199451]
+    100262: Rectangular Mullion 50mm x 150mm [199452]
+    100264: Rectangular Mullion 50mm x 150mm [199453]
+    100266: System Panel Glazed [199332]
+    100268: System Panel Glazed [199338]
+    100270: System Panel Glazed [199340]
+    100272: System Panel Glazed [199342]
+    100274: System Panel Glazed [199344]
+    100276: System Panel Glazed [199346]
+    100278: System Panel Glazed [199348]
+    100280: System Panel Glazed [199350]
+    100282: System Panel Glazed [199352]
+    100284: System Panel Glazed [199354]
+    100286: System Panel Glazed [199356]
+    100288: System Panel Glazed [199358]
+    100290: System Panel Glazed [199360]
+    100292: System Panel Glazed [199362]
+    100294: System Panel Glazed [199364]
+    100296: System Panel Glazed [199366]
+    100298: System Panel Glazed [199367]
+    100300: System Panel Glazed [199368]
+    100302: System Panel Glazed [199369]
+    100304: System Panel Glazed [199370]
+    100306: System Panel Glazed [199371]
+    100308: System Panel Glazed [199372]
+    100310: System Panel Glazed [199373]
+    100312: System Panel Glazed [199374]
+    100314: System Panel Glazed [199375]
+    100316: System Panel Glazed [199376]
+    100318: System Panel Glazed [199377]
+    100320: System Panel Glazed [199378]
+    100322: System Panel Glazed [199379]
+    100324: System Panel Glazed [199380]
+    100326: Top Rail Type Circular - 40mm [199319]
+    400000: '3D View: {3D}'
+    400002: Basic Roof Wood Rafter 184mm - Asphalt Shingles [199300]
+    400004: Basic Wall brickbyme [199280]
+    400006: Basic Wall brickbyme [199281]
+    400008: Basic Wall brickbyme [199282]
+    400010: Basic Wall brickbyme [199283]
+    400012: Basic Wall brickbyme [199285]
+    400014: Basic Wall brickbyme [199287]
+    400016: Basic Wall Exterior - Brick on CMU [199284]
+    400018: Floor Generic Floor - 400mm [199290]
+    400020: M_Single-Flush 0915 x 2134mm [199454]
+    400022: M_Single-Flush 0915 x 2134mm [199455]
+    400024: M_Single-Flush 0915 x 2134mm [199456]
+    400026: M_W Shapes-Column W250X73 [199457]
+    400028: M_W Shapes-Column W250X73 [199459]
+    400030: M_W Shapes-Column W250X73 [199461]
+    400032: M_W Shapes-Column W250X73 [199463]
+    400034: M_W Shapes-Column W250X73 [199465]
+    400036: //RootNode
+    400038: Railing 900mm Pipe [199310]
+    400040: Railing 900mm Pipe [199310]_[199476]
+    400042: Railing 900mm Pipe [199310]_[199476] 1
+    400044: Railing 900mm Pipe [199310]_[199476] 10
+    400046: Railing 900mm Pipe [199310]_[199476] 11
+    400048: Railing 900mm Pipe [199310]_[199476] 12
+    400050: Railing 900mm Pipe [199310]_[199476] 13
+    400052: Railing 900mm Pipe [199310]_[199476] 14
+    400054: Railing 900mm Pipe [199310]_[199476] 15
+    400056: Railing 900mm Pipe [199310]_[199476] 16
+    400058: Railing 900mm Pipe [199310]_[199476] 17
+    400060: Railing 900mm Pipe [199310]_[199476] 18
+    400062: Railing 900mm Pipe [199310]_[199476] 19
+    400064: Railing 900mm Pipe [199310]_[199476] 2
+    400066: Railing 900mm Pipe [199310]_[199476] 20
+    400068: Railing 900mm Pipe [199310]_[199476] 21
+    400070: Railing 900mm Pipe [199310]_[199476] 22
+    400072: Railing 900mm Pipe [199310]_[199476] 23
+    400074: Railing 900mm Pipe [199310]_[199476] 24
+    400076: Railing 900mm Pipe [199310]_[199476] 25
+    400078: Railing 900mm Pipe [199310]_[199476] 26
+    400080: Railing 900mm Pipe [199310]_[199476] 27
+    400082: Railing 900mm Pipe [199310]_[199476] 28
+    400084: Railing 900mm Pipe [199310]_[199476] 29
+    400086: Railing 900mm Pipe [199310]_[199476] 3
+    400088: Railing 900mm Pipe [199310]_[199476] 30
+    400090: Railing 900mm Pipe [199310]_[199476] 31
+    400092: Railing 900mm Pipe [199310]_[199476] 32
+    400094: Railing 900mm Pipe [199310]_[199476] 33
+    400096: Railing 900mm Pipe [199310]_[199476] 4
+    400098: Railing 900mm Pipe [199310]_[199476] 5
+    400100: Railing 900mm Pipe [199310]_[199476] 6
+    400102: Railing 900mm Pipe [199310]_[199476] 7
+    400104: Railing 900mm Pipe [199310]_[199476] 8
+    400106: Railing 900mm Pipe [199310]_[199476] 9
+    400108: Railing 900mm Pipe [199310]_MeshPart0
+    400110: Railing 900mm Pipe [199310]_MeshPart1
+    400112: Rectangular Mullion 50mm x 150mm [199333]
+    400114: Rectangular Mullion 50mm x 150mm [199334]
+    400116: Rectangular Mullion 50mm x 150mm [199335]
+    400118: Rectangular Mullion 50mm x 150mm [199336]
+    400120: Rectangular Mullion 50mm x 150mm [199381]
+    400122: Rectangular Mullion 50mm x 150mm [199382]
+    400124: Rectangular Mullion 50mm x 150mm [199383]
+    400126: Rectangular Mullion 50mm x 150mm [199384]
+    400128: Rectangular Mullion 50mm x 150mm [199385]
+    400130: Rectangular Mullion 50mm x 150mm [199386]
+    400132: Rectangular Mullion 50mm x 150mm [199387]
+    400134: Rectangular Mullion 50mm x 150mm [199388]
+    400136: Rectangular Mullion 50mm x 150mm [199389]
+    400138: Rectangular Mullion 50mm x 150mm [199390]
+    400140: Rectangular Mullion 50mm x 150mm [199391]
+    400142: Rectangular Mullion 50mm x 150mm [199392]
+    400144: Rectangular Mullion 50mm x 150mm [199393]
+    400146: Rectangular Mullion 50mm x 150mm [199394]
+    400148: Rectangular Mullion 50mm x 150mm [199395]
+    400150: Rectangular Mullion 50mm x 150mm [199396]
+    400152: Rectangular Mullion 50mm x 150mm [199397]
+    400154: Rectangular Mullion 50mm x 150mm [199398]
+    400156: Rectangular Mullion 50mm x 150mm [199399]
+    400158: Rectangular Mullion 50mm x 150mm [199400]
+    400160: Rectangular Mullion 50mm x 150mm [199401]
+    400162: Rectangular Mullion 50mm x 150mm [199402]
+    400164: Rectangular Mullion 50mm x 150mm [199403]
+    400166: Rectangular Mullion 50mm x 150mm [199404]
+    400168: Rectangular Mullion 50mm x 150mm [199405]
+    400170: Rectangular Mullion 50mm x 150mm [199406]
+    400172: Rectangular Mullion 50mm x 150mm [199407]
+    400174: Rectangular Mullion 50mm x 150mm [199408]
+    400176: Rectangular Mullion 50mm x 150mm [199409]
+    400178: Rectangular Mullion 50mm x 150mm [199410]
+    400180: Rectangular Mullion 50mm x 150mm [199411]
+    400182: Rectangular Mullion 50mm x 150mm [199412]
+    400184: Rectangular Mullion 50mm x 150mm [199413]
+    400186: Rectangular Mullion 50mm x 150mm [199414]
+    400188: Rectangular Mullion 50mm x 150mm [199415]
+    400190: Rectangular Mullion 50mm x 150mm [199416]
+    400192: Rectangular Mullion 50mm x 150mm [199417]
+    400194: Rectangular Mullion 50mm x 150mm [199418]
+    400196: Rectangular Mullion 50mm x 150mm [199419]
+    400198: Rectangular Mullion 50mm x 150mm [199420]
+    400200: Rectangular Mullion 50mm x 150mm [199421]
+    400202: Rectangular Mullion 50mm x 150mm [199422]
+    400204: Rectangular Mullion 50mm x 150mm [199423]
+    400206: Rectangular Mullion 50mm x 150mm [199424]
+    400208: Rectangular Mullion 50mm x 150mm [199425]
+    400210: Rectangular Mullion 50mm x 150mm [199426]
+    400212: Rectangular Mullion 50mm x 150mm [199427]
+    400214: Rectangular Mullion 50mm x 150mm [199428]
+    400216: Rectangular Mullion 50mm x 150mm [199429]
+    400218: Rectangular Mullion 50mm x 150mm [199430]
+    400220: Rectangular Mullion 50mm x 150mm [199431]
+    400222: Rectangular Mullion 50mm x 150mm [199432]
+    400224: Rectangular Mullion 50mm x 150mm [199433]
+    400226: Rectangular Mullion 50mm x 150mm [199434]
+    400228: Rectangular Mullion 50mm x 150mm [199435]
+    400230: Rectangular Mullion 50mm x 150mm [199436]
+    400232: Rectangular Mullion 50mm x 150mm [199437]
+    400234: Rectangular Mullion 50mm x 150mm [199438]
+    400236: Rectangular Mullion 50mm x 150mm [199439]
+    400238: Rectangular Mullion 50mm x 150mm [199440]
+    400240: Rectangular Mullion 50mm x 150mm [199441]
+    400242: Rectangular Mullion 50mm x 150mm [199442]
+    400244: Rectangular Mullion 50mm x 150mm [199443]
+    400246: Rectangular Mullion 50mm x 150mm [199444]
+    400248: Rectangular Mullion 50mm x 150mm [199445]
+    400250: Rectangular Mullion 50mm x 150mm [199446]
+    400252: Rectangular Mullion 50mm x 150mm [199447]
+    400254: Rectangular Mullion 50mm x 150mm [199448]
+    400256: Rectangular Mullion 50mm x 150mm [199449]
+    400258: Rectangular Mullion 50mm x 150mm [199450]
+    400260: Rectangular Mullion 50mm x 150mm [199451]
+    400262: Rectangular Mullion 50mm x 150mm [199452]
+    400264: Rectangular Mullion 50mm x 150mm [199453]
+    400266: System Panel Glazed [199332]
+    400268: System Panel Glazed [199338]
+    400270: System Panel Glazed [199340]
+    400272: System Panel Glazed [199342]
+    400274: System Panel Glazed [199344]
+    400276: System Panel Glazed [199346]
+    400278: System Panel Glazed [199348]
+    400280: System Panel Glazed [199350]
+    400282: System Panel Glazed [199352]
+    400284: System Panel Glazed [199354]
+    400286: System Panel Glazed [199356]
+    400288: System Panel Glazed [199358]
+    400290: System Panel Glazed [199360]
+    400292: System Panel Glazed [199362]
+    400294: System Panel Glazed [199364]
+    400296: System Panel Glazed [199366]
+    400298: System Panel Glazed [199367]
+    400300: System Panel Glazed [199368]
+    400302: System Panel Glazed [199369]
+    400304: System Panel Glazed [199370]
+    400306: System Panel Glazed [199371]
+    400308: System Panel Glazed [199372]
+    400310: System Panel Glazed [199373]
+    400312: System Panel Glazed [199374]
+    400314: System Panel Glazed [199375]
+    400316: System Panel Glazed [199376]
+    400318: System Panel Glazed [199377]
+    400320: System Panel Glazed [199378]
+    400322: System Panel Glazed [199379]
+    400324: System Panel Glazed [199380]
+    400326: Top Rail Type Circular - 40mm [199319]
+    2300000: Basic Roof Wood Rafter 184mm - Asphalt Shingles [199300]
+    2300002: Basic Wall brickbyme [199280]
+    2300004: Basic Wall brickbyme [199281]
+    2300006: Basic Wall brickbyme [199282]
+    2300008: Basic Wall brickbyme [199283]
+    2300010: Basic Wall brickbyme [199285]
+    2300012: Basic Wall brickbyme [199287]
+    2300014: Basic Wall Exterior - Brick on CMU [199284]
+    2300016: Floor Generic Floor - 400mm [199290]
+    2300018: M_Single-Flush 0915 x 2134mm [199454]
+    2300020: M_Single-Flush 0915 x 2134mm [199455]
+    2300022: M_Single-Flush 0915 x 2134mm [199456]
+    2300024: M_W Shapes-Column W250X73 [199457]
+    2300026: M_W Shapes-Column W250X73 [199459]
+    2300028: M_W Shapes-Column W250X73 [199461]
+    2300030: M_W Shapes-Column W250X73 [199463]
+    2300032: M_W Shapes-Column W250X73 [199465]
+    2300034: Railing 900mm Pipe [199310]_[199476]
+    2300036: Railing 900mm Pipe [199310]_[199476] 1
+    2300038: Railing 900mm Pipe [199310]_[199476] 10
+    2300040: Railing 900mm Pipe [199310]_[199476] 11
+    2300042: Railing 900mm Pipe [199310]_[199476] 12
+    2300044: Railing 900mm Pipe [199310]_[199476] 13
+    2300046: Railing 900mm Pipe [199310]_[199476] 14
+    2300048: Railing 900mm Pipe [199310]_[199476] 15
+    2300050: Railing 900mm Pipe [199310]_[199476] 16
+    2300052: Railing 900mm Pipe [199310]_[199476] 17
+    2300054: Railing 900mm Pipe [199310]_[199476] 18
+    2300056: Railing 900mm Pipe [199310]_[199476] 19
+    2300058: Railing 900mm Pipe [199310]_[199476] 2
+    2300060: Railing 900mm Pipe [199310]_[199476] 20
+    2300062: Railing 900mm Pipe [199310]_[199476] 21
+    2300064: Railing 900mm Pipe [199310]_[199476] 22
+    2300066: Railing 900mm Pipe [199310]_[199476] 23
+    2300068: Railing 900mm Pipe [199310]_[199476] 24
+    2300070: Railing 900mm Pipe [199310]_[199476] 25
+    2300072: Railing 900mm Pipe [199310]_[199476] 26
+    2300074: Railing 900mm Pipe [199310]_[199476] 27
+    2300076: Railing 900mm Pipe [199310]_[199476] 28
+    2300078: Railing 900mm Pipe [199310]_[199476] 29
+    2300080: Railing 900mm Pipe [199310]_[199476] 3
+    2300082: Railing 900mm Pipe [199310]_[199476] 30
+    2300084: Railing 900mm Pipe [199310]_[199476] 31
+    2300086: Railing 900mm Pipe [199310]_[199476] 32
+    2300088: Railing 900mm Pipe [199310]_[199476] 33
+    2300090: Railing 900mm Pipe [199310]_[199476] 4
+    2300092: Railing 900mm Pipe [199310]_[199476] 5
+    2300094: Railing 900mm Pipe [199310]_[199476] 6
+    2300096: Railing 900mm Pipe [199310]_[199476] 7
+    2300098: Railing 900mm Pipe [199310]_[199476] 8
+    2300100: Railing 900mm Pipe [199310]_[199476] 9
+    2300102: Railing 900mm Pipe [199310]_MeshPart0
+    2300104: Railing 900mm Pipe [199310]_MeshPart1
+    2300106: Rectangular Mullion 50mm x 150mm [199333]
+    2300108: Rectangular Mullion 50mm x 150mm [199334]
+    2300110: Rectangular Mullion 50mm x 150mm [199335]
+    2300112: Rectangular Mullion 50mm x 150mm [199336]
+    2300114: Rectangular Mullion 50mm x 150mm [199381]
+    2300116: Rectangular Mullion 50mm x 150mm [199382]
+    2300118: Rectangular Mullion 50mm x 150mm [199383]
+    2300120: Rectangular Mullion 50mm x 150mm [199384]
+    2300122: Rectangular Mullion 50mm x 150mm [199385]
+    2300124: Rectangular Mullion 50mm x 150mm [199386]
+    2300126: Rectangular Mullion 50mm x 150mm [199387]
+    2300128: Rectangular Mullion 50mm x 150mm [199388]
+    2300130: Rectangular Mullion 50mm x 150mm [199389]
+    2300132: Rectangular Mullion 50mm x 150mm [199390]
+    2300134: Rectangular Mullion 50mm x 150mm [199391]
+    2300136: Rectangular Mullion 50mm x 150mm [199392]
+    2300138: Rectangular Mullion 50mm x 150mm [199393]
+    2300140: Rectangular Mullion 50mm x 150mm [199394]
+    2300142: Rectangular Mullion 50mm x 150mm [199395]
+    2300144: Rectangular Mullion 50mm x 150mm [199396]
+    2300146: Rectangular Mullion 50mm x 150mm [199397]
+    2300148: Rectangular Mullion 50mm x 150mm [199398]
+    2300150: Rectangular Mullion 50mm x 150mm [199399]
+    2300152: Rectangular Mullion 50mm x 150mm [199400]
+    2300154: Rectangular Mullion 50mm x 150mm [199401]
+    2300156: Rectangular Mullion 50mm x 150mm [199402]
+    2300158: Rectangular Mullion 50mm x 150mm [199403]
+    2300160: Rectangular Mullion 50mm x 150mm [199404]
+    2300162: Rectangular Mullion 50mm x 150mm [199405]
+    2300164: Rectangular Mullion 50mm x 150mm [199406]
+    2300166: Rectangular Mullion 50mm x 150mm [199407]
+    2300168: Rectangular Mullion 50mm x 150mm [199408]
+    2300170: Rectangular Mullion 50mm x 150mm [199409]
+    2300172: Rectangular Mullion 50mm x 150mm [199410]
+    2300174: Rectangular Mullion 50mm x 150mm [199411]
+    2300176: Rectangular Mullion 50mm x 150mm [199412]
+    2300178: Rectangular Mullion 50mm x 150mm [199413]
+    2300180: Rectangular Mullion 50mm x 150mm [199414]
+    2300182: Rectangular Mullion 50mm x 150mm [199415]
+    2300184: Rectangular Mullion 50mm x 150mm [199416]
+    2300186: Rectangular Mullion 50mm x 150mm [199417]
+    2300188: Rectangular Mullion 50mm x 150mm [199418]
+    2300190: Rectangular Mullion 50mm x 150mm [199419]
+    2300192: Rectangular Mullion 50mm x 150mm [199420]
+    2300194: Rectangular Mullion 50mm x 150mm [199421]
+    2300196: Rectangular Mullion 50mm x 150mm [199422]
+    2300198: Rectangular Mullion 50mm x 150mm [199423]
+    2300200: Rectangular Mullion 50mm x 150mm [199424]
+    2300202: Rectangular Mullion 50mm x 150mm [199425]
+    2300204: Rectangular Mullion 50mm x 150mm [199426]
+    2300206: Rectangular Mullion 50mm x 150mm [199427]
+    2300208: Rectangular Mullion 50mm x 150mm [199428]
+    2300210: Rectangular Mullion 50mm x 150mm [199429]
+    2300212: Rectangular Mullion 50mm x 150mm [199430]
+    2300214: Rectangular Mullion 50mm x 150mm [199431]
+    2300216: Rectangular Mullion 50mm x 150mm [199432]
+    2300218: Rectangular Mullion 50mm x 150mm [199433]
+    2300220: Rectangular Mullion 50mm x 150mm [199434]
+    2300222: Rectangular Mullion 50mm x 150mm [199435]
+    2300224: Rectangular Mullion 50mm x 150mm [199436]
+    2300226: Rectangular Mullion 50mm x 150mm [199437]
+    2300228: Rectangular Mullion 50mm x 150mm [199438]
+    2300230: Rectangular Mullion 50mm x 150mm [199439]
+    2300232: Rectangular Mullion 50mm x 150mm [199440]
+    2300234: Rectangular Mullion 50mm x 150mm [199441]
+    2300236: Rectangular Mullion 50mm x 150mm [199442]
+    2300238: Rectangular Mullion 50mm x 150mm [199443]
+    2300240: Rectangular Mullion 50mm x 150mm [199444]
+    2300242: Rectangular Mullion 50mm x 150mm [199445]
+    2300244: Rectangular Mullion 50mm x 150mm [199446]
+    2300246: Rectangular Mullion 50mm x 150mm [199447]
+    2300248: Rectangular Mullion 50mm x 150mm [199448]
+    2300250: Rectangular Mullion 50mm x 150mm [199449]
+    2300252: Rectangular Mullion 50mm x 150mm [199450]
+    2300254: Rectangular Mullion 50mm x 150mm [199451]
+    2300256: Rectangular Mullion 50mm x 150mm [199452]
+    2300258: Rectangular Mullion 50mm x 150mm [199453]
+    2300260: System Panel Glazed [199332]
+    2300262: System Panel Glazed [199338]
+    2300264: System Panel Glazed [199340]
+    2300266: System Panel Glazed [199342]
+    2300268: System Panel Glazed [199344]
+    2300270: System Panel Glazed [199346]
+    2300272: System Panel Glazed [199348]
+    2300274: System Panel Glazed [199350]
+    2300276: System Panel Glazed [199352]
+    2300278: System Panel Glazed [199354]
+    2300280: System Panel Glazed [199356]
+    2300282: System Panel Glazed [199358]
+    2300284: System Panel Glazed [199360]
+    2300286: System Panel Glazed [199362]
+    2300288: System Panel Glazed [199364]
+    2300290: System Panel Glazed [199366]
+    2300292: System Panel Glazed [199367]
+    2300294: System Panel Glazed [199368]
+    2300296: System Panel Glazed [199369]
+    2300298: System Panel Glazed [199370]
+    2300300: System Panel Glazed [199371]
+    2300302: System Panel Glazed [199372]
+    2300304: System Panel Glazed [199373]
+    2300306: System Panel Glazed [199374]
+    2300308: System Panel Glazed [199375]
+    2300310: System Panel Glazed [199376]
+    2300312: System Panel Glazed [199377]
+    2300314: System Panel Glazed [199378]
+    2300316: System Panel Glazed [199379]
+    2300318: System Panel Glazed [199380]
+    2300320: Top Rail Type Circular - 40mm [199319]
+    3300000: Basic Roof Wood Rafter 184mm - Asphalt Shingles [199300]
+    3300002: Basic Wall brickbyme [199280]
+    3300004: Basic Wall brickbyme [199281]
+    3300006: Basic Wall brickbyme [199282]
+    3300008: Basic Wall brickbyme [199283]
+    3300010: Basic Wall brickbyme [199285]
+    3300012: Basic Wall brickbyme [199287]
+    3300014: Basic Wall Exterior - Brick on CMU [199284]
+    3300016: Floor Generic Floor - 400mm [199290]
+    3300018: M_Single-Flush 0915 x 2134mm [199454]
+    3300020: M_Single-Flush 0915 x 2134mm [199455]
+    3300022: M_Single-Flush 0915 x 2134mm [199456]
+    3300024: M_W Shapes-Column W250X73 [199457]
+    3300026: M_W Shapes-Column W250X73 [199459]
+    3300028: M_W Shapes-Column W250X73 [199461]
+    3300030: M_W Shapes-Column W250X73 [199463]
+    3300032: M_W Shapes-Column W250X73 [199465]
+    3300034: Railing 900mm Pipe [199310]_[199476]
+    3300036: Railing 900mm Pipe [199310]_[199476] 1
+    3300038: Railing 900mm Pipe [199310]_[199476] 10
+    3300040: Railing 900mm Pipe [199310]_[199476] 11
+    3300042: Railing 900mm Pipe [199310]_[199476] 12
+    3300044: Railing 900mm Pipe [199310]_[199476] 13
+    3300046: Railing 900mm Pipe [199310]_[199476] 14
+    3300048: Railing 900mm Pipe [199310]_[199476] 15
+    3300050: Railing 900mm Pipe [199310]_[199476] 16
+    3300052: Railing 900mm Pipe [199310]_[199476] 17
+    3300054: Railing 900mm Pipe [199310]_[199476] 18
+    3300056: Railing 900mm Pipe [199310]_[199476] 19
+    3300058: Railing 900mm Pipe [199310]_[199476] 2
+    3300060: Railing 900mm Pipe [199310]_[199476] 20
+    3300062: Railing 900mm Pipe [199310]_[199476] 21
+    3300064: Railing 900mm Pipe [199310]_[199476] 22
+    3300066: Railing 900mm Pipe [199310]_[199476] 23
+    3300068: Railing 900mm Pipe [199310]_[199476] 24
+    3300070: Railing 900mm Pipe [199310]_[199476] 25
+    3300072: Railing 900mm Pipe [199310]_[199476] 26
+    3300074: Railing 900mm Pipe [199310]_[199476] 27
+    3300076: Railing 900mm Pipe [199310]_[199476] 28
+    3300078: Railing 900mm Pipe [199310]_[199476] 29
+    3300080: Railing 900mm Pipe [199310]_[199476] 3
+    3300082: Railing 900mm Pipe [199310]_[199476] 30
+    3300084: Railing 900mm Pipe [199310]_[199476] 31
+    3300086: Railing 900mm Pipe [199310]_[199476] 32
+    3300088: Railing 900mm Pipe [199310]_[199476] 33
+    3300090: Railing 900mm Pipe [199310]_[199476] 4
+    3300092: Railing 900mm Pipe [199310]_[199476] 5
+    3300094: Railing 900mm Pipe [199310]_[199476] 6
+    3300096: Railing 900mm Pipe [199310]_[199476] 7
+    3300098: Railing 900mm Pipe [199310]_[199476] 8
+    3300100: Railing 900mm Pipe [199310]_[199476] 9
+    3300102: Railing 900mm Pipe [199310]_MeshPart0
+    3300104: Railing 900mm Pipe [199310]_MeshPart1
+    3300106: Rectangular Mullion 50mm x 150mm [199333]
+    3300108: Rectangular Mullion 50mm x 150mm [199334]
+    3300110: Rectangular Mullion 50mm x 150mm [199335]
+    3300112: Rectangular Mullion 50mm x 150mm [199336]
+    3300114: Rectangular Mullion 50mm x 150mm [199381]
+    3300116: Rectangular Mullion 50mm x 150mm [199382]
+    3300118: Rectangular Mullion 50mm x 150mm [199383]
+    3300120: Rectangular Mullion 50mm x 150mm [199384]
+    3300122: Rectangular Mullion 50mm x 150mm [199385]
+    3300124: Rectangular Mullion 50mm x 150mm [199386]
+    3300126: Rectangular Mullion 50mm x 150mm [199387]
+    3300128: Rectangular Mullion 50mm x 150mm [199388]
+    3300130: Rectangular Mullion 50mm x 150mm [199389]
+    3300132: Rectangular Mullion 50mm x 150mm [199390]
+    3300134: Rectangular Mullion 50mm x 150mm [199391]
+    3300136: Rectangular Mullion 50mm x 150mm [199392]
+    3300138: Rectangular Mullion 50mm x 150mm [199393]
+    3300140: Rectangular Mullion 50mm x 150mm [199394]
+    3300142: Rectangular Mullion 50mm x 150mm [199395]
+    3300144: Rectangular Mullion 50mm x 150mm [199396]
+    3300146: Rectangular Mullion 50mm x 150mm [199397]
+    3300148: Rectangular Mullion 50mm x 150mm [199398]
+    3300150: Rectangular Mullion 50mm x 150mm [199399]
+    3300152: Rectangular Mullion 50mm x 150mm [199400]
+    3300154: Rectangular Mullion 50mm x 150mm [199401]
+    3300156: Rectangular Mullion 50mm x 150mm [199402]
+    3300158: Rectangular Mullion 50mm x 150mm [199403]
+    3300160: Rectangular Mullion 50mm x 150mm [199404]
+    3300162: Rectangular Mullion 50mm x 150mm [199405]
+    3300164: Rectangular Mullion 50mm x 150mm [199406]
+    3300166: Rectangular Mullion 50mm x 150mm [199407]
+    3300168: Rectangular Mullion 50mm x 150mm [199408]
+    3300170: Rectangular Mullion 50mm x 150mm [199409]
+    3300172: Rectangular Mullion 50mm x 150mm [199410]
+    3300174: Rectangular Mullion 50mm x 150mm [199411]
+    3300176: Rectangular Mullion 50mm x 150mm [199412]
+    3300178: Rectangular Mullion 50mm x 150mm [199413]
+    3300180: Rectangular Mullion 50mm x 150mm [199414]
+    3300182: Rectangular Mullion 50mm x 150mm [199415]
+    3300184: Rectangular Mullion 50mm x 150mm [199416]
+    3300186: Rectangular Mullion 50mm x 150mm [199417]
+    3300188: Rectangular Mullion 50mm x 150mm [199418]
+    3300190: Rectangular Mullion 50mm x 150mm [199419]
+    3300192: Rectangular Mullion 50mm x 150mm [199420]
+    3300194: Rectangular Mullion 50mm x 150mm [199421]
+    3300196: Rectangular Mullion 50mm x 150mm [199422]
+    3300198: Rectangular Mullion 50mm x 150mm [199423]
+    3300200: Rectangular Mullion 50mm x 150mm [199424]
+    3300202: Rectangular Mullion 50mm x 150mm [199425]
+    3300204: Rectangular Mullion 50mm x 150mm [199426]
+    3300206: Rectangular Mullion 50mm x 150mm [199427]
+    3300208: Rectangular Mullion 50mm x 150mm [199428]
+    3300210: Rectangular Mullion 50mm x 150mm [199429]
+    3300212: Rectangular Mullion 50mm x 150mm [199430]
+    3300214: Rectangular Mullion 50mm x 150mm [199431]
+    3300216: Rectangular Mullion 50mm x 150mm [199432]
+    3300218: Rectangular Mullion 50mm x 150mm [199433]
+    3300220: Rectangular Mullion 50mm x 150mm [199434]
+    3300222: Rectangular Mullion 50mm x 150mm [199435]
+    3300224: Rectangular Mullion 50mm x 150mm [199436]
+    3300226: Rectangular Mullion 50mm x 150mm [199437]
+    3300228: Rectangular Mullion 50mm x 150mm [199438]
+    3300230: Rectangular Mullion 50mm x 150mm [199439]
+    3300232: Rectangular Mullion 50mm x 150mm [199440]
+    3300234: Rectangular Mullion 50mm x 150mm [199441]
+    3300236: Rectangular Mullion 50mm x 150mm [199442]
+    3300238: Rectangular Mullion 50mm x 150mm [199443]
+    3300240: Rectangular Mullion 50mm x 150mm [199444]
+    3300242: Rectangular Mullion 50mm x 150mm [199445]
+    3300244: Rectangular Mullion 50mm x 150mm [199446]
+    3300246: Rectangular Mullion 50mm x 150mm [199447]
+    3300248: Rectangular Mullion 50mm x 150mm [199448]
+    3300250: Rectangular Mullion 50mm x 150mm [199449]
+    3300252: Rectangular Mullion 50mm x 150mm [199450]
+    3300254: Rectangular Mullion 50mm x 150mm [199451]
+    3300256: Rectangular Mullion 50mm x 150mm [199452]
+    3300258: Rectangular Mullion 50mm x 150mm [199453]
+    3300260: System Panel Glazed [199332]
+    3300262: System Panel Glazed [199338]
+    3300264: System Panel Glazed [199340]
+    3300266: System Panel Glazed [199342]
+    3300268: System Panel Glazed [199344]
+    3300270: System Panel Glazed [199346]
+    3300272: System Panel Glazed [199348]
+    3300274: System Panel Glazed [199350]
+    3300276: System Panel Glazed [199352]
+    3300278: System Panel Glazed [199354]
+    3300280: System Panel Glazed [199356]
+    3300282: System Panel Glazed [199358]
+    3300284: System Panel Glazed [199360]
+    3300286: System Panel Glazed [199362]
+    3300288: System Panel Glazed [199364]
+    3300290: System Panel Glazed [199366]
+    3300292: System Panel Glazed [199367]
+    3300294: System Panel Glazed [199368]
+    3300296: System Panel Glazed [199369]
+    3300298: System Panel Glazed [199370]
+    3300300: System Panel Glazed [199371]
+    3300302: System Panel Glazed [199372]
+    3300304: System Panel Glazed [199373]
+    3300306: System Panel Glazed [199374]
+    3300308: System Panel Glazed [199375]
+    3300310: System Panel Glazed [199376]
+    3300312: System Panel Glazed [199377]
+    3300314: System Panel Glazed [199378]
+    3300316: System Panel Glazed [199379]
+    3300318: System Panel Glazed [199380]
+    3300320: Top Rail Type Circular - 40mm [199319]
+    4300000: Basic Wall brickbyme [199280]
+    4300002: Basic Wall brickbyme [199281]
+    4300004: Basic Wall brickbyme [199282]
+    4300006: Basic Wall brickbyme [199283]
+    4300008: Basic Wall Exterior - Brick on CMU [199284]
+    4300010: Basic Wall brickbyme [199285]
+    4300012: Basic Wall brickbyme [199287]
+    4300014: Floor Generic Floor - 400mm [199290]
+    4300016: Basic Roof Wood Rafter 184mm - Asphalt Shingles [199300]
+    4300018: Railing 900mm Pipe [199310]_MeshPart0
+    4300020: Railing 900mm Pipe [199310]_MeshPart1
+    4300022: Railing 900mm Pipe [199310]_[199476]
+    4300024: Top Rail Type Circular - 40mm [199319]
+    4300026: System Panel Glazed [199332]
+    4300028: Rectangular Mullion 50mm x 150mm [199333]
+    4300030: Rectangular Mullion 50mm x 150mm [199334]
+    4300032: Rectangular Mullion 50mm x 150mm [199335]
+    4300034: Rectangular Mullion 50mm x 150mm [199336]
+    4300036: System Panel Glazed [199338]
+    4300038: System Panel Glazed [199366]
+    4300040: System Panel Glazed [199367]
+    4300042: Rectangular Mullion 50mm x 150mm [199382]
+    4300044: Rectangular Mullion 50mm x 150mm [199395]
+    4300046: Rectangular Mullion 50mm x 150mm [199409]
+    4300048: Rectangular Mullion 50mm x 150mm [199410]
+    4300050: Rectangular Mullion 50mm x 150mm [199411]
+    4300052: Rectangular Mullion 50mm x 150mm [199412]
+    4300054: Rectangular Mullion 50mm x 150mm [199426]
+    4300056: Rectangular Mullion 50mm x 150mm [199440]
+    4300058: M_Single-Flush 0915 x 2134mm [199454]
+    4300060: M_W Shapes-Column W250X73 [199457]
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 6ec439032ba14e8478e8a0e7508ceee2
+timeCreated: 1490803885
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '3D View: {3D}'
+    100002: Basic Wall brickbyme [199279]
+    100004: Basic Wall brickbyme [199284]
+    100006: Basic Wall brickbyme [199286]
+    100008: Basic Wall brickbyme [199313]
+    100010: Basic Wall Generic - 150mm [199280]
+    100012: Basic Wall Generic - 150mm [199281]
+    100014: Basic Wall Generic - 150mm [199282]
+    100016: Basic Wall Generic - 150mm [199283]
+    100018: Basic Wall Generic - 150mm [199287]
+    100020: Basic Wall Generic - 150mm [199288]
+    100022: Basic Wall Generic - 150mm [199289]
+    100024: Basic Wall Generic - 150mm [199310]
+    100026: Basic Wall Generic - 150mm [199311]
+    100028: Basic Wall Generic - 150mm [199312]
+    100030: Floor 160mm Concrete With 50mm Metal Deck [199316]
+    100032: Floor Generic Floor - 400mm [199292]
+    100034: Floor Generic Floor - 400mm [199336]
+    100036: M_Fixed 0915 x 1830mm [199347]
+    100038: M_Fixed 0915 x 1830mm [199348]
+    100040: M_Fixed 0915 x 1830mm [199349]
+    100042: M_Fixed 0915 x 1830mm [199350]
+    100044: M_Fixed 0915 x 1830mm [199354]
+    100046: M_Fixed 0915 x 1830mm [199355]
+    100048: M_Fixed 0915 x 1830mm [199356]
+    100050: M_Fixed 0915 x 1830mm [199357]
+    100052: M_Fixed 0915 x 1830mm [199410]
+    100054: M_Fixed 0915 x 1830mm [199411]
+    100056: M_Fixed 0915 x 1830mm [199431]
+    100058: M_Single-Flush 0915 x 2134mm [199351]
+    100060: M_Single-Flush 0915 x 2134mm [199352]
+    100062: M_Single-Flush 0915 x 2134mm [199353]
+    100064: M_Single-Flush 0915 x 2134mm [199409]
+    100066: //RootNode
+    100068: Railing 900mm Pipe [199360]
+    100070: Railing 900mm Pipe [199360]_[199438]
+    100072: Railing 900mm Pipe [199360]_[199438] 1
+    100074: Railing 900mm Pipe [199360]_[199438] 10
+    100076: Railing 900mm Pipe [199360]_[199438] 11
+    100078: Railing 900mm Pipe [199360]_[199438] 12
+    100080: Railing 900mm Pipe [199360]_[199438] 13
+    100082: Railing 900mm Pipe [199360]_[199438] 14
+    100084: Railing 900mm Pipe [199360]_[199438] 15
+    100086: Railing 900mm Pipe [199360]_[199438] 16
+    100088: Railing 900mm Pipe [199360]_[199438] 17
+    100090: Railing 900mm Pipe [199360]_[199438] 18
+    100092: Railing 900mm Pipe [199360]_[199438] 19
+    100094: Railing 900mm Pipe [199360]_[199438] 2
+    100096: Railing 900mm Pipe [199360]_[199438] 20
+    100098: Railing 900mm Pipe [199360]_[199438] 21
+    100100: Railing 900mm Pipe [199360]_[199438] 22
+    100102: Railing 900mm Pipe [199360]_[199438] 23
+    100104: Railing 900mm Pipe [199360]_[199438] 3
+    100106: Railing 900mm Pipe [199360]_[199438] 4
+    100108: Railing 900mm Pipe [199360]_[199438] 5
+    100110: Railing 900mm Pipe [199360]_[199438] 6
+    100112: Railing 900mm Pipe [199360]_[199438] 7
+    100114: Railing 900mm Pipe [199360]_[199438] 8
+    100116: Railing 900mm Pipe [199360]_[199438] 9
+    100118: Railing 900mm Pipe [199360]_MeshPart0
+    100120: Railing 900mm Pipe [199360]_MeshPart1
+    100122: Railing 900mm Pipe [199385]
+    100124: Railing 900mm Pipe [199385]_[199438]
+    100126: Railing 900mm Pipe [199385]_[199438] 1
+    100128: Railing 900mm Pipe [199385]_[199438] 10
+    100130: Railing 900mm Pipe [199385]_[199438] 11
+    100132: Railing 900mm Pipe [199385]_[199438] 12
+    100134: Railing 900mm Pipe [199385]_[199438] 13
+    100136: Railing 900mm Pipe [199385]_[199438] 14
+    100138: Railing 900mm Pipe [199385]_[199438] 15
+    100140: Railing 900mm Pipe [199385]_[199438] 16
+    100142: Railing 900mm Pipe [199385]_[199438] 17
+    100144: Railing 900mm Pipe [199385]_[199438] 18
+    100146: Railing 900mm Pipe [199385]_[199438] 19
+    100148: Railing 900mm Pipe [199385]_[199438] 2
+    100150: Railing 900mm Pipe [199385]_[199438] 20
+    100152: Railing 900mm Pipe [199385]_[199438] 21
+    100154: Railing 900mm Pipe [199385]_[199438] 22
+    100156: Railing 900mm Pipe [199385]_[199438] 23
+    100158: Railing 900mm Pipe [199385]_[199438] 24
+    100160: Railing 900mm Pipe [199385]_[199438] 25
+    100162: Railing 900mm Pipe [199385]_[199438] 26
+    100164: Railing 900mm Pipe [199385]_[199438] 27
+    100166: Railing 900mm Pipe [199385]_[199438] 3
+    100168: Railing 900mm Pipe [199385]_[199438] 4
+    100170: Railing 900mm Pipe [199385]_[199438] 5
+    100172: Railing 900mm Pipe [199385]_[199438] 6
+    100174: Railing 900mm Pipe [199385]_[199438] 7
+    100176: Railing 900mm Pipe [199385]_[199438] 8
+    100178: Railing 900mm Pipe [199385]_[199438] 9
+    100180: Railing 900mm Pipe [199385]_MeshPart0
+    100182: Railing 900mm Pipe [199385]_MeshPart1
+    100184: Railing 900mm Pipe [199414]
+    100186: Railing 900mm Pipe [199414]_[199438]
+    100188: Railing 900mm Pipe [199414]_[199438] 1
+    100190: Railing 900mm Pipe [199414]_[199438] 2
+    100192: Railing 900mm Pipe [199414]_[199438] 3
+    100194: Railing 900mm Pipe [199414]_[199438] 4
+    100196: Railing 900mm Pipe [199414]_[199438] 5
+    100198: Railing 900mm Pipe [199414]_[199438] 6
+    100200: Top Rail Type Circular - 40mm [199370]
+    100202: Top Rail Type Circular - 40mm [199396]
+    100204: Top Rail Type Circular - 40mm [199420]
+    400000: '3D View: {3D}'
+    400002: Basic Wall brickbyme [199279]
+    400004: Basic Wall brickbyme [199284]
+    400006: Basic Wall brickbyme [199286]
+    400008: Basic Wall brickbyme [199313]
+    400010: Basic Wall Generic - 150mm [199280]
+    400012: Basic Wall Generic - 150mm [199281]
+    400014: Basic Wall Generic - 150mm [199282]
+    400016: Basic Wall Generic - 150mm [199283]
+    400018: Basic Wall Generic - 150mm [199287]
+    400020: Basic Wall Generic - 150mm [199288]
+    400022: Basic Wall Generic - 150mm [199289]
+    400024: Basic Wall Generic - 150mm [199310]
+    400026: Basic Wall Generic - 150mm [199311]
+    400028: Basic Wall Generic - 150mm [199312]
+    400030: Floor 160mm Concrete With 50mm Metal Deck [199316]
+    400032: Floor Generic Floor - 400mm [199292]
+    400034: Floor Generic Floor - 400mm [199336]
+    400036: M_Fixed 0915 x 1830mm [199347]
+    400038: M_Fixed 0915 x 1830mm [199348]
+    400040: M_Fixed 0915 x 1830mm [199349]
+    400042: M_Fixed 0915 x 1830mm [199350]
+    400044: M_Fixed 0915 x 1830mm [199354]
+    400046: M_Fixed 0915 x 1830mm [199355]
+    400048: M_Fixed 0915 x 1830mm [199356]
+    400050: M_Fixed 0915 x 1830mm [199357]
+    400052: M_Fixed 0915 x 1830mm [199410]
+    400054: M_Fixed 0915 x 1830mm [199411]
+    400056: M_Fixed 0915 x 1830mm [199431]
+    400058: M_Single-Flush 0915 x 2134mm [199351]
+    400060: M_Single-Flush 0915 x 2134mm [199352]
+    400062: M_Single-Flush 0915 x 2134mm [199353]
+    400064: M_Single-Flush 0915 x 2134mm [199409]
+    400066: //RootNode
+    400068: Railing 900mm Pipe [199360]
+    400070: Railing 900mm Pipe [199360]_[199438]
+    400072: Railing 900mm Pipe [199360]_[199438] 1
+    400074: Railing 900mm Pipe [199360]_[199438] 10
+    400076: Railing 900mm Pipe [199360]_[199438] 11
+    400078: Railing 900mm Pipe [199360]_[199438] 12
+    400080: Railing 900mm Pipe [199360]_[199438] 13
+    400082: Railing 900mm Pipe [199360]_[199438] 14
+    400084: Railing 900mm Pipe [199360]_[199438] 15
+    400086: Railing 900mm Pipe [199360]_[199438] 16
+    400088: Railing 900mm Pipe [199360]_[199438] 17
+    400090: Railing 900mm Pipe [199360]_[199438] 18
+    400092: Railing 900mm Pipe [199360]_[199438] 19
+    400094: Railing 900mm Pipe [199360]_[199438] 2
+    400096: Railing 900mm Pipe [199360]_[199438] 20
+    400098: Railing 900mm Pipe [199360]_[199438] 21
+    400100: Railing 900mm Pipe [199360]_[199438] 22
+    400102: Railing 900mm Pipe [199360]_[199438] 23
+    400104: Railing 900mm Pipe [199360]_[199438] 3
+    400106: Railing 900mm Pipe [199360]_[199438] 4
+    400108: Railing 900mm Pipe [199360]_[199438] 5
+    400110: Railing 900mm Pipe [199360]_[199438] 6
+    400112: Railing 900mm Pipe [199360]_[199438] 7
+    400114: Railing 900mm Pipe [199360]_[199438] 8
+    400116: Railing 900mm Pipe [199360]_[199438] 9
+    400118: Railing 900mm Pipe [199360]_MeshPart0
+    400120: Railing 900mm Pipe [199360]_MeshPart1
+    400122: Railing 900mm Pipe [199385]
+    400124: Railing 900mm Pipe [199385]_[199438]
+    400126: Railing 900mm Pipe [199385]_[199438] 1
+    400128: Railing 900mm Pipe [199385]_[199438] 10
+    400130: Railing 900mm Pipe [199385]_[199438] 11
+    400132: Railing 900mm Pipe [199385]_[199438] 12
+    400134: Railing 900mm Pipe [199385]_[199438] 13
+    400136: Railing 900mm Pipe [199385]_[199438] 14
+    400138: Railing 900mm Pipe [199385]_[199438] 15
+    400140: Railing 900mm Pipe [199385]_[199438] 16
+    400142: Railing 900mm Pipe [199385]_[199438] 17
+    400144: Railing 900mm Pipe [199385]_[199438] 18
+    400146: Railing 900mm Pipe [199385]_[199438] 19
+    400148: Railing 900mm Pipe [199385]_[199438] 2
+    400150: Railing 900mm Pipe [199385]_[199438] 20
+    400152: Railing 900mm Pipe [199385]_[199438] 21
+    400154: Railing 900mm Pipe [199385]_[199438] 22
+    400156: Railing 900mm Pipe [199385]_[199438] 23
+    400158: Railing 900mm Pipe [199385]_[199438] 24
+    400160: Railing 900mm Pipe [199385]_[199438] 25
+    400162: Railing 900mm Pipe [199385]_[199438] 26
+    400164: Railing 900mm Pipe [199385]_[199438] 27
+    400166: Railing 900mm Pipe [199385]_[199438] 3
+    400168: Railing 900mm Pipe [199385]_[199438] 4
+    400170: Railing 900mm Pipe [199385]_[199438] 5
+    400172: Railing 900mm Pipe [199385]_[199438] 6
+    400174: Railing 900mm Pipe [199385]_[199438] 7
+    400176: Railing 900mm Pipe [199385]_[199438] 8
+    400178: Railing 900mm Pipe [199385]_[199438] 9
+    400180: Railing 900mm Pipe [199385]_MeshPart0
+    400182: Railing 900mm Pipe [199385]_MeshPart1
+    400184: Railing 900mm Pipe [199414]
+    400186: Railing 900mm Pipe [199414]_[199438]
+    400188: Railing 900mm Pipe [199414]_[199438] 1
+    400190: Railing 900mm Pipe [199414]_[199438] 2
+    400192: Railing 900mm Pipe [199414]_[199438] 3
+    400194: Railing 900mm Pipe [199414]_[199438] 4
+    400196: Railing 900mm Pipe [199414]_[199438] 5
+    400198: Railing 900mm Pipe [199414]_[199438] 6
+    400200: Top Rail Type Circular - 40mm [199370]
+    400202: Top Rail Type Circular - 40mm [199396]
+    400204: Top Rail Type Circular - 40mm [199420]
+    2300000: Basic Wall brickbyme [199279]
+    2300002: Basic Wall brickbyme [199284]
+    2300004: Basic Wall brickbyme [199286]
+    2300006: Basic Wall brickbyme [199313]
+    2300008: Basic Wall Generic - 150mm [199280]
+    2300010: Basic Wall Generic - 150mm [199281]
+    2300012: Basic Wall Generic - 150mm [199282]
+    2300014: Basic Wall Generic - 150mm [199283]
+    2300016: Basic Wall Generic - 150mm [199287]
+    2300018: Basic Wall Generic - 150mm [199288]
+    2300020: Basic Wall Generic - 150mm [199289]
+    2300022: Basic Wall Generic - 150mm [199310]
+    2300024: Basic Wall Generic - 150mm [199311]
+    2300026: Basic Wall Generic - 150mm [199312]
+    2300028: Floor 160mm Concrete With 50mm Metal Deck [199316]
+    2300030: Floor Generic Floor - 400mm [199292]
+    2300032: Floor Generic Floor - 400mm [199336]
+    2300034: M_Fixed 0915 x 1830mm [199347]
+    2300036: M_Fixed 0915 x 1830mm [199348]
+    2300038: M_Fixed 0915 x 1830mm [199349]
+    2300040: M_Fixed 0915 x 1830mm [199350]
+    2300042: M_Fixed 0915 x 1830mm [199354]
+    2300044: M_Fixed 0915 x 1830mm [199355]
+    2300046: M_Fixed 0915 x 1830mm [199356]
+    2300048: M_Fixed 0915 x 1830mm [199357]
+    2300050: M_Fixed 0915 x 1830mm [199410]
+    2300052: M_Fixed 0915 x 1830mm [199411]
+    2300054: M_Fixed 0915 x 1830mm [199431]
+    2300056: M_Single-Flush 0915 x 2134mm [199351]
+    2300058: M_Single-Flush 0915 x 2134mm [199352]
+    2300060: M_Single-Flush 0915 x 2134mm [199353]
+    2300062: M_Single-Flush 0915 x 2134mm [199409]
+    2300064: Railing 900mm Pipe [199360]_[199438]
+    2300066: Railing 900mm Pipe [199360]_[199438] 1
+    2300068: Railing 900mm Pipe [199360]_[199438] 10
+    2300070: Railing 900mm Pipe [199360]_[199438] 11
+    2300072: Railing 900mm Pipe [199360]_[199438] 12
+    2300074: Railing 900mm Pipe [199360]_[199438] 13
+    2300076: Railing 900mm Pipe [199360]_[199438] 14
+    2300078: Railing 900mm Pipe [199360]_[199438] 15
+    2300080: Railing 900mm Pipe [199360]_[199438] 16
+    2300082: Railing 900mm Pipe [199360]_[199438] 17
+    2300084: Railing 900mm Pipe [199360]_[199438] 18
+    2300086: Railing 900mm Pipe [199360]_[199438] 19
+    2300088: Railing 900mm Pipe [199360]_[199438] 2
+    2300090: Railing 900mm Pipe [199360]_[199438] 20
+    2300092: Railing 900mm Pipe [199360]_[199438] 21
+    2300094: Railing 900mm Pipe [199360]_[199438] 22
+    2300096: Railing 900mm Pipe [199360]_[199438] 23
+    2300098: Railing 900mm Pipe [199360]_[199438] 3
+    2300100: Railing 900mm Pipe [199360]_[199438] 4
+    2300102: Railing 900mm Pipe [199360]_[199438] 5
+    2300104: Railing 900mm Pipe [199360]_[199438] 6
+    2300106: Railing 900mm Pipe [199360]_[199438] 7
+    2300108: Railing 900mm Pipe [199360]_[199438] 8
+    2300110: Railing 900mm Pipe [199360]_[199438] 9
+    2300112: Railing 900mm Pipe [199360]_MeshPart0
+    2300114: Railing 900mm Pipe [199360]_MeshPart1
+    2300116: Railing 900mm Pipe [199385]_[199438]
+    2300118: Railing 900mm Pipe [199385]_[199438] 1
+    2300120: Railing 900mm Pipe [199385]_[199438] 10
+    2300122: Railing 900mm Pipe [199385]_[199438] 11
+    2300124: Railing 900mm Pipe [199385]_[199438] 12
+    2300126: Railing 900mm Pipe [199385]_[199438] 13
+    2300128: Railing 900mm Pipe [199385]_[199438] 14
+    2300130: Railing 900mm Pipe [199385]_[199438] 15
+    2300132: Railing 900mm Pipe [199385]_[199438] 16
+    2300134: Railing 900mm Pipe [199385]_[199438] 17
+    2300136: Railing 900mm Pipe [199385]_[199438] 18
+    2300138: Railing 900mm Pipe [199385]_[199438] 19
+    2300140: Railing 900mm Pipe [199385]_[199438] 2
+    2300142: Railing 900mm Pipe [199385]_[199438] 20
+    2300144: Railing 900mm Pipe [199385]_[199438] 21
+    2300146: Railing 900mm Pipe [199385]_[199438] 22
+    2300148: Railing 900mm Pipe [199385]_[199438] 23
+    2300150: Railing 900mm Pipe [199385]_[199438] 24
+    2300152: Railing 900mm Pipe [199385]_[199438] 25
+    2300154: Railing 900mm Pipe [199385]_[199438] 26
+    2300156: Railing 900mm Pipe [199385]_[199438] 27
+    2300158: Railing 900mm Pipe [199385]_[199438] 3
+    2300160: Railing 900mm Pipe [199385]_[199438] 4
+    2300162: Railing 900mm Pipe [199385]_[199438] 5
+    2300164: Railing 900mm Pipe [199385]_[199438] 6
+    2300166: Railing 900mm Pipe [199385]_[199438] 7
+    2300168: Railing 900mm Pipe [199385]_[199438] 8
+    2300170: Railing 900mm Pipe [199385]_[199438] 9
+    2300172: Railing 900mm Pipe [199385]_MeshPart0
+    2300174: Railing 900mm Pipe [199385]_MeshPart1
+    2300176: Railing 900mm Pipe [199414]
+    2300178: Railing 900mm Pipe [199414]_[199438]
+    2300180: Railing 900mm Pipe [199414]_[199438] 1
+    2300182: Railing 900mm Pipe [199414]_[199438] 2
+    2300184: Railing 900mm Pipe [199414]_[199438] 3
+    2300186: Railing 900mm Pipe [199414]_[199438] 4
+    2300188: Railing 900mm Pipe [199414]_[199438] 5
+    2300190: Railing 900mm Pipe [199414]_[199438] 6
+    2300192: Top Rail Type Circular - 40mm [199370]
+    2300194: Top Rail Type Circular - 40mm [199396]
+    2300196: Top Rail Type Circular - 40mm [199420]
+    3300000: Basic Wall brickbyme [199279]
+    3300002: Basic Wall brickbyme [199284]
+    3300004: Basic Wall brickbyme [199286]
+    3300006: Basic Wall brickbyme [199313]
+    3300008: Basic Wall Generic - 150mm [199280]
+    3300010: Basic Wall Generic - 150mm [199281]
+    3300012: Basic Wall Generic - 150mm [199282]
+    3300014: Basic Wall Generic - 150mm [199283]
+    3300016: Basic Wall Generic - 150mm [199287]
+    3300018: Basic Wall Generic - 150mm [199288]
+    3300020: Basic Wall Generic - 150mm [199289]
+    3300022: Basic Wall Generic - 150mm [199310]
+    3300024: Basic Wall Generic - 150mm [199311]
+    3300026: Basic Wall Generic - 150mm [199312]
+    3300028: Floor 160mm Concrete With 50mm Metal Deck [199316]
+    3300030: Floor Generic Floor - 400mm [199292]
+    3300032: Floor Generic Floor - 400mm [199336]
+    3300034: M_Fixed 0915 x 1830mm [199347]
+    3300036: M_Fixed 0915 x 1830mm [199348]
+    3300038: M_Fixed 0915 x 1830mm [199349]
+    3300040: M_Fixed 0915 x 1830mm [199350]
+    3300042: M_Fixed 0915 x 1830mm [199354]
+    3300044: M_Fixed 0915 x 1830mm [199355]
+    3300046: M_Fixed 0915 x 1830mm [199356]
+    3300048: M_Fixed 0915 x 1830mm [199357]
+    3300050: M_Fixed 0915 x 1830mm [199410]
+    3300052: M_Fixed 0915 x 1830mm [199411]
+    3300054: M_Fixed 0915 x 1830mm [199431]
+    3300056: M_Single-Flush 0915 x 2134mm [199351]
+    3300058: M_Single-Flush 0915 x 2134mm [199352]
+    3300060: M_Single-Flush 0915 x 2134mm [199353]
+    3300062: M_Single-Flush 0915 x 2134mm [199409]
+    3300064: Railing 900mm Pipe [199360]_[199438]
+    3300066: Railing 900mm Pipe [199360]_[199438] 1
+    3300068: Railing 900mm Pipe [199360]_[199438] 10
+    3300070: Railing 900mm Pipe [199360]_[199438] 11
+    3300072: Railing 900mm Pipe [199360]_[199438] 12
+    3300074: Railing 900mm Pipe [199360]_[199438] 13
+    3300076: Railing 900mm Pipe [199360]_[199438] 14
+    3300078: Railing 900mm Pipe [199360]_[199438] 15
+    3300080: Railing 900mm Pipe [199360]_[199438] 16
+    3300082: Railing 900mm Pipe [199360]_[199438] 17
+    3300084: Railing 900mm Pipe [199360]_[199438] 18
+    3300086: Railing 900mm Pipe [199360]_[199438] 19
+    3300088: Railing 900mm Pipe [199360]_[199438] 2
+    3300090: Railing 900mm Pipe [199360]_[199438] 20
+    3300092: Railing 900mm Pipe [199360]_[199438] 21
+    3300094: Railing 900mm Pipe [199360]_[199438] 22
+    3300096: Railing 900mm Pipe [199360]_[199438] 23
+    3300098: Railing 900mm Pipe [199360]_[199438] 3
+    3300100: Railing 900mm Pipe [199360]_[199438] 4
+    3300102: Railing 900mm Pipe [199360]_[199438] 5
+    3300104: Railing 900mm Pipe [199360]_[199438] 6
+    3300106: Railing 900mm Pipe [199360]_[199438] 7
+    3300108: Railing 900mm Pipe [199360]_[199438] 8
+    3300110: Railing 900mm Pipe [199360]_[199438] 9
+    3300112: Railing 900mm Pipe [199360]_MeshPart0
+    3300114: Railing 900mm Pipe [199360]_MeshPart1
+    3300116: Railing 900mm Pipe [199385]_[199438]
+    3300118: Railing 900mm Pipe [199385]_[199438] 1
+    3300120: Railing 900mm Pipe [199385]_[199438] 10
+    3300122: Railing 900mm Pipe [199385]_[199438] 11
+    3300124: Railing 900mm Pipe [199385]_[199438] 12
+    3300126: Railing 900mm Pipe [199385]_[199438] 13
+    3300128: Railing 900mm Pipe [199385]_[199438] 14
+    3300130: Railing 900mm Pipe [199385]_[199438] 15
+    3300132: Railing 900mm Pipe [199385]_[199438] 16
+    3300134: Railing 900mm Pipe [199385]_[199438] 17
+    3300136: Railing 900mm Pipe [199385]_[199438] 18
+    3300138: Railing 900mm Pipe [199385]_[199438] 19
+    3300140: Railing 900mm Pipe [199385]_[199438] 2
+    3300142: Railing 900mm Pipe [199385]_[199438] 20
+    3300144: Railing 900mm Pipe [199385]_[199438] 21
+    3300146: Railing 900mm Pipe [199385]_[199438] 22
+    3300148: Railing 900mm Pipe [199385]_[199438] 23
+    3300150: Railing 900mm Pipe [199385]_[199438] 24
+    3300152: Railing 900mm Pipe [199385]_[199438] 25
+    3300154: Railing 900mm Pipe [199385]_[199438] 26
+    3300156: Railing 900mm Pipe [199385]_[199438] 27
+    3300158: Railing 900mm Pipe [199385]_[199438] 3
+    3300160: Railing 900mm Pipe [199385]_[199438] 4
+    3300162: Railing 900mm Pipe [199385]_[199438] 5
+    3300164: Railing 900mm Pipe [199385]_[199438] 6
+    3300166: Railing 900mm Pipe [199385]_[199438] 7
+    3300168: Railing 900mm Pipe [199385]_[199438] 8
+    3300170: Railing 900mm Pipe [199385]_[199438] 9
+    3300172: Railing 900mm Pipe [199385]_MeshPart0
+    3300174: Railing 900mm Pipe [199385]_MeshPart1
+    3300176: Railing 900mm Pipe [199414]
+    3300178: Railing 900mm Pipe [199414]_[199438]
+    3300180: Railing 900mm Pipe [199414]_[199438] 1
+    3300182: Railing 900mm Pipe [199414]_[199438] 2
+    3300184: Railing 900mm Pipe [199414]_[199438] 3
+    3300186: Railing 900mm Pipe [199414]_[199438] 4
+    3300188: Railing 900mm Pipe [199414]_[199438] 5
+    3300190: Railing 900mm Pipe [199414]_[199438] 6
+    3300192: Top Rail Type Circular - 40mm [199370]
+    3300194: Top Rail Type Circular - 40mm [199396]
+    3300196: Top Rail Type Circular - 40mm [199420]
+    4300000: Basic Wall brickbyme [199279]
+    4300002: Basic Wall Generic - 150mm [199280]
+    4300004: Basic Wall Generic - 150mm [199281]
+    4300006: Basic Wall Generic - 150mm [199282]
+    4300008: Basic Wall Generic - 150mm [199283]
+    4300010: Basic Wall brickbyme [199284]
+    4300012: Basic Wall brickbyme [199286]
+    4300014: Basic Wall Generic - 150mm [199287]
+    4300016: Basic Wall Generic - 150mm [199288]
+    4300018: Basic Wall Generic - 150mm [199289]
+    4300020: Floor Generic Floor - 400mm [199292]
+    4300022: Basic Wall Generic - 150mm [199310]
+    4300024: Basic Wall Generic - 150mm [199311]
+    4300026: Basic Wall Generic - 150mm [199312]
+    4300028: Basic Wall brickbyme [199313]
+    4300030: Floor 160mm Concrete With 50mm Metal Deck [199316]
+    4300032: Floor Generic Floor - 400mm [199336]
+    4300034: M_Fixed 0915 x 1830mm [199347]
+    4300036: M_Single-Flush 0915 x 2134mm [199351]
+    4300038: Railing 900mm Pipe [199360]_MeshPart0
+    4300040: Railing 900mm Pipe [199360]_MeshPart1
+    4300042: Railing 900mm Pipe [199360]_[199438]
+    4300044: Top Rail Type Circular - 40mm [199370]
+    4300046: Railing 900mm Pipe [199385]_MeshPart0
+    4300048: Railing 900mm Pipe [199385]_MeshPart1
+    4300050: Top Rail Type Circular - 40mm [199396]
+    4300052: Railing 900mm Pipe [199414]
+    4300054: Top Rail Type Circular - 40mm [199420]
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

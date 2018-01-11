@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 9f716be67b8f0dd4b8784143e0fd0f2e
+timeCreated: 1490803921
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '3D View: {3D}'
+    100002: Basic Roof Wood Rafter 184mm - Asphalt Shingles [199286]
+    100004: Basic Roof Wood Rafter 184mm - Asphalt Shingles [199297]
+    100006: Basic Wall Exterior - Brick on CMU [199280]
+    100008: Basic Wall Exterior - Brick on CMU [199281]
+    100010: Basic Wall Exterior - Brick on CMU [199282]
+    100012: Basic Wall Exterior - Brick on CMU [199283]
+    100014: Floor Generic Floor - 400mm [199308]
+    100016: M_Fixed 0915 x 1830mm [199412]
+    100018: M_Fixed 0915 x 1830mm [199413]
+    100020: M_Fixed 0915 x 1830mm [199414]
+    100022: M_Fixed 0915 x 1830mm [199415]
+    100024: M_Fixed 0915 x 1830mm [199416]
+    100026: M_Fixed 0915 x 1830mm [199417]
+    100028: //RootNode
+    100030: Railing 900mm Pipe [199327]
+    100032: Railing 900mm Pipe [199327]_[199423]
+    100034: Railing 900mm Pipe [199327]_[199423] 1
+    100036: Railing 900mm Pipe [199327]_[199423] 2
+    100038: Railing 900mm Pipe [199327]_[199423] 3
+    100040: Railing 900mm Pipe [199327]_[199423] 4
+    100042: Railing 900mm Pipe [199327]_[199423] 5
+    100044: Railing 900mm Pipe [199348]
+    100046: Railing 900mm Pipe [199348]_[199423]
+    100048: Railing 900mm Pipe [199348]_[199423] 1
+    100050: Railing 900mm Pipe [199366]
+    100052: Railing 900mm Pipe [199366]_[199423]
+    100054: Railing 900mm Pipe [199366]_[199423] 1
+    100056: Railing 900mm Pipe [199366]_[199423] 2
+    100058: Railing 900mm Pipe [199366]_[199423] 3
+    100060: Railing 900mm Pipe [199366]_[199423] 4
+    100062: Railing 900mm Pipe [199366]_[199423] 5
+    100064: Railing 900mm Pipe [199366]_[199423] 6
+    100066: Railing 900mm Pipe [199366]_[199423] 7
+    100068: Railing 900mm Pipe [199390]
+    100070: Railing 900mm Pipe [199390]_[199423]
+    100072: Railing 900mm Pipe [199390]_[199423] 1
+    100074: Railing 900mm Pipe [199390]_[199423] 2
+    100076: Railing 900mm Pipe [199390]_[199423] 3
+    100078: Railing 900mm Pipe [199390]_[199423] 4
+    100080: Railing 900mm Pipe [199390]_[199423] 5
+    100082: Railing 900mm Pipe [199390]_[199423] 6
+    100084: Railing 900mm Pipe [199390]_[199423] 7
+    100086: Top Rail Type Circular - 40mm [199334]
+    100088: Top Rail Type Circular - 40mm [199353]
+    100090: Top Rail Type Circular - 40mm [199375]
+    100092: Top Rail Type Circular - 40mm [199399]
+    400000: '3D View: {3D}'
+    400002: Basic Roof Wood Rafter 184mm - Asphalt Shingles [199286]
+    400004: Basic Roof Wood Rafter 184mm - Asphalt Shingles [199297]
+    400006: Basic Wall Exterior - Brick on CMU [199280]
+    400008: Basic Wall Exterior - Brick on CMU [199281]
+    400010: Basic Wall Exterior - Brick on CMU [199282]
+    400012: Basic Wall Exterior - Brick on CMU [199283]
+    400014: Floor Generic Floor - 400mm [199308]
+    400016: M_Fixed 0915 x 1830mm [199412]
+    400018: M_Fixed 0915 x 1830mm [199413]
+    400020: M_Fixed 0915 x 1830mm [199414]
+    400022: M_Fixed 0915 x 1830mm [199415]
+    400024: M_Fixed 0915 x 1830mm [199416]
+    400026: M_Fixed 0915 x 1830mm [199417]
+    400028: //RootNode
+    400030: Railing 900mm Pipe [199327]
+    400032: Railing 900mm Pipe [199327]_[199423]
+    400034: Railing 900mm Pipe [199327]_[199423] 1
+    400036: Railing 900mm Pipe [199327]_[199423] 2
+    400038: Railing 900mm Pipe [199327]_[199423] 3
+    400040: Railing 900mm Pipe [199327]_[199423] 4
+    400042: Railing 900mm Pipe [199327]_[199423] 5
+    400044: Railing 900mm Pipe [199348]
+    400046: Railing 900mm Pipe [199348]_[199423]
+    400048: Railing 900mm Pipe [199348]_[199423] 1
+    400050: Railing 900mm Pipe [199366]
+    400052: Railing 900mm Pipe [199366]_[199423]
+    400054: Railing 900mm Pipe [199366]_[199423] 1
+    400056: Railing 900mm Pipe [199366]_[199423] 2
+    400058: Railing 900mm Pipe [199366]_[199423] 3
+    400060: Railing 900mm Pipe [199366]_[199423] 4
+    400062: Railing 900mm Pipe [199366]_[199423] 5
+    400064: Railing 900mm Pipe [199366]_[199423] 6
+    400066: Railing 900mm Pipe [199366]_[199423] 7
+    400068: Railing 900mm Pipe [199390]
+    400070: Railing 900mm Pipe [199390]_[199423]
+    400072: Railing 900mm Pipe [199390]_[199423] 1
+    400074: Railing 900mm Pipe [199390]_[199423] 2
+    400076: Railing 900mm Pipe [199390]_[199423] 3
+    400078: Railing 900mm Pipe [199390]_[199423] 4
+    400080: Railing 900mm Pipe [199390]_[199423] 5
+    400082: Railing 900mm Pipe [199390]_[199423] 6
+    400084: Railing 900mm Pipe [199390]_[199423] 7
+    400086: Top Rail Type Circular - 40mm [199334]
+    400088: Top Rail Type Circular - 40mm [199353]
+    400090: Top Rail Type Circular - 40mm [199375]
+    400092: Top Rail Type Circular - 40mm [199399]
+    2300000: Basic Roof Wood Rafter 184mm - Asphalt Shingles [199286]
+    2300002: Basic Roof Wood Rafter 184mm - Asphalt Shingles [199297]
+    2300004: Basic Wall Exterior - Brick on CMU [199280]
+    2300006: Basic Wall Exterior - Brick on CMU [199281]
+    2300008: Basic Wall Exterior - Brick on CMU [199282]
+    2300010: Basic Wall Exterior - Brick on CMU [199283]
+    2300012: Floor Generic Floor - 400mm [199308]
+    2300014: M_Fixed 0915 x 1830mm [199412]
+    2300016: M_Fixed 0915 x 1830mm [199413]
+    2300018: M_Fixed 0915 x 1830mm [199414]
+    2300020: M_Fixed 0915 x 1830mm [199415]
+    2300022: M_Fixed 0915 x 1830mm [199416]
+    2300024: M_Fixed 0915 x 1830mm [199417]
+    2300026: Railing 900mm Pipe [199327]
+    2300028: Railing 900mm Pipe [199327]_[199423]
+    2300030: Railing 900mm Pipe [199327]_[199423] 1
+    2300032: Railing 900mm Pipe [199327]_[199423] 2
+    2300034: Railing 900mm Pipe [199327]_[199423] 3
+    2300036: Railing 900mm Pipe [199327]_[199423] 4
+    2300038: Railing 900mm Pipe [199327]_[199423] 5
+    2300040: Railing 900mm Pipe [199348]
+    2300042: Railing 900mm Pipe [199348]_[199423]
+    2300044: Railing 900mm Pipe [199348]_[199423] 1
+    2300046: Railing 900mm Pipe [199366]
+    2300048: Railing 900mm Pipe [199366]_[199423]
+    2300050: Railing 900mm Pipe [199366]_[199423] 1
+    2300052: Railing 900mm Pipe [199366]_[199423] 2
+    2300054: Railing 900mm Pipe [199366]_[199423] 3
+    2300056: Railing 900mm Pipe [199366]_[199423] 4
+    2300058: Railing 900mm Pipe [199366]_[199423] 5
+    2300060: Railing 900mm Pipe [199366]_[199423] 6
+    2300062: Railing 900mm Pipe [199366]_[199423] 7
+    2300064: Railing 900mm Pipe [199390]
+    2300066: Railing 900mm Pipe [199390]_[199423]
+    2300068: Railing 900mm Pipe [199390]_[199423] 1
+    2300070: Railing 900mm Pipe [199390]_[199423] 2
+    2300072: Railing 900mm Pipe [199390]_[199423] 3
+    2300074: Railing 900mm Pipe [199390]_[199423] 4
+    2300076: Railing 900mm Pipe [199390]_[199423] 5
+    2300078: Railing 900mm Pipe [199390]_[199423] 6
+    2300080: Railing 900mm Pipe [199390]_[199423] 7
+    2300082: Top Rail Type Circular - 40mm [199334]
+    2300084: Top Rail Type Circular - 40mm [199353]
+    2300086: Top Rail Type Circular - 40mm [199375]
+    2300088: Top Rail Type Circular - 40mm [199399]
+    3300000: Basic Roof Wood Rafter 184mm - Asphalt Shingles [199286]
+    3300002: Basic Roof Wood Rafter 184mm - Asphalt Shingles [199297]
+    3300004: Basic Wall Exterior - Brick on CMU [199280]
+    3300006: Basic Wall Exterior - Brick on CMU [199281]
+    3300008: Basic Wall Exterior - Brick on CMU [199282]
+    3300010: Basic Wall Exterior - Brick on CMU [199283]
+    3300012: Floor Generic Floor - 400mm [199308]
+    3300014: M_Fixed 0915 x 1830mm [199412]
+    3300016: M_Fixed 0915 x 1830mm [199413]
+    3300018: M_Fixed 0915 x 1830mm [199414]
+    3300020: M_Fixed 0915 x 1830mm [199415]
+    3300022: M_Fixed 0915 x 1830mm [199416]
+    3300024: M_Fixed 0915 x 1830mm [199417]
+    3300026: Railing 900mm Pipe [199327]
+    3300028: Railing 900mm Pipe [199327]_[199423]
+    3300030: Railing 900mm Pipe [199327]_[199423] 1
+    3300032: Railing 900mm Pipe [199327]_[199423] 2
+    3300034: Railing 900mm Pipe [199327]_[199423] 3
+    3300036: Railing 900mm Pipe [199327]_[199423] 4
+    3300038: Railing 900mm Pipe [199327]_[199423] 5
+    3300040: Railing 900mm Pipe [199348]
+    3300042: Railing 900mm Pipe [199348]_[199423]
+    3300044: Railing 900mm Pipe [199348]_[199423] 1
+    3300046: Railing 900mm Pipe [199366]
+    3300048: Railing 900mm Pipe [199366]_[199423]
+    3300050: Railing 900mm Pipe [199366]_[199423] 1
+    3300052: Railing 900mm Pipe [199366]_[199423] 2
+    3300054: Railing 900mm Pipe [199366]_[199423] 3
+    3300056: Railing 900mm Pipe [199366]_[199423] 4
+    3300058: Railing 900mm Pipe [199366]_[199423] 5
+    3300060: Railing 900mm Pipe [199366]_[199423] 6
+    3300062: Railing 900mm Pipe [199366]_[199423] 7
+    3300064: Railing 900mm Pipe [199390]
+    3300066: Railing 900mm Pipe [199390]_[199423]
+    3300068: Railing 900mm Pipe [199390]_[199423] 1
+    3300070: Railing 900mm Pipe [199390]_[199423] 2
+    3300072: Railing 900mm Pipe [199390]_[199423] 3
+    3300074: Railing 900mm Pipe [199390]_[199423] 4
+    3300076: Railing 900mm Pipe [199390]_[199423] 5
+    3300078: Railing 900mm Pipe [199390]_[199423] 6
+    3300080: Railing 900mm Pipe [199390]_[199423] 7
+    3300082: Top Rail Type Circular - 40mm [199334]
+    3300084: Top Rail Type Circular - 40mm [199353]
+    3300086: Top Rail Type Circular - 40mm [199375]
+    3300088: Top Rail Type Circular - 40mm [199399]
+    4300000: Basic Wall Exterior - Brick on CMU [199280]
+    4300002: Basic Wall Exterior - Brick on CMU [199281]
+    4300004: Basic Wall Exterior - Brick on CMU [199282]
+    4300006: Basic Wall Exterior - Brick on CMU [199283]
+    4300008: Basic Roof Wood Rafter 184mm - Asphalt Shingles [199286]
+    4300010: Basic Roof Wood Rafter 184mm - Asphalt Shingles [199297]
+    4300012: Floor Generic Floor - 400mm [199308]
+    4300014: Railing 900mm Pipe [199327]
+    4300016: Railing 900mm Pipe [199327]_[199423]
+    4300018: Top Rail Type Circular - 40mm [199334]
+    4300020: Railing 900mm Pipe [199348]
+    4300022: Top Rail Type Circular - 40mm [199353]
+    4300024: Railing 900mm Pipe [199366]
+    4300026: Top Rail Type Circular - 40mm [199375]
+    4300028: Railing 900mm Pipe [199390]
+    4300030: Top Rail Type Circular - 40mm [199399]
+    4300032: M_Fixed 0915 x 1830mm [199412]
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
